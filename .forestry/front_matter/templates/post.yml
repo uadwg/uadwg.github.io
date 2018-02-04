@@ -14,9 +14,11 @@ fields:
   name: date
   config:
     required: true
+  default: Invalid date
 - type: text
   name: layout
   label: Layout
   hidden: false
   config:
     required: true
+  default: post
