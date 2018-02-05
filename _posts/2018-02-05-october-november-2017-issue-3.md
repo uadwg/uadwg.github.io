@@ -2,11 +2,6 @@
 title: October / November 2017 Issue 3
 date: 2017-10-27 18:29:49 +0300
 layout: post
-important_dates: |-
-  October & November
-  - Oct. 5: World Teacher's Day
-  - Oct. 9: Indigenous People's Day
-  - Oct. 16: Day of the Defender
 ---
 ## Indigenous Peoples’ Day
 
