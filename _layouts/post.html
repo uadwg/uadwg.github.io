@@ -11,10 +11,11 @@
     <section class="main-content">
       {{ content }}
       <h3>Important Dates</h3>
-      <p>post</p>
-      {{ post.important_dates }}
-      <p>page</p>
-      {{ page.important_dates }}
+      <ul>
+        {% for date in page.important_dates %}
+          <li>{{ date }}</li>
+        {% endfor %}
+      </ul>
       {% include footer.html %}
     </section>
   </body>
