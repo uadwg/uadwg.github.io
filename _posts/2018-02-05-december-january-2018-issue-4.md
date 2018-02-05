@@ -17,7 +17,7 @@ important_dates:
 - 'January 27: Commemoration Victims of the Holocaust'
 - 'January 31: Tu Bishvat'
 ---
-## Where School Ends, Church Begins
+### Where School Ends, Church Begins
 
 **by Garret Wolfe, Group 50, TEFL**
 
@@ -27,7 +27,7 @@ In September of this year Ukraine’s parliament passed a bevy of education refo
 
 What I believe is important in regards to the recently passed legislation is two-fold. First, it appears that Ukrainian educational reform sees that “church and state” separation is in many cases simply on paper and not practice. Secondly, it has the potential to further promote a secular, inclusive environment for all of Ukraine’s many minority religious groups.
 
-## Bi-ing Time: Coming out Christian
+### Bi-ing Time: Coming out Christian
 
 **by Matthew Smith, Group 52, TEFL**
 
@@ -37,7 +37,7 @@ I grew up as the son of a pastor of one of those churches that gets categorized 
 
 It was so from this position that I learned want allyship really looked like. I had friends on both sides of this precarious closet who supported me and took on the arguments, that had made it so difficult for me to come out, as their own. The most important thing I learned through this time is that being an ally doesn’t mean you 100% understand the other person or their experience, but that doesn’t matter, because the conversation isn’t about you. It’s about using your privilege to extend the voice of others.
 
-## Jewish in Ukraine
+### Jewish in Ukraine
 
 **by Joseph Heller, Group 51, YD**
 
