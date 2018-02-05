@@ -3,8 +3,11 @@ title: October / November 2017 Issue 3
 date: 2017-10-27 18:29:49 +0300
 layout: post
 important_dates:
-- 'December 1: World AIDS Day'
-- 'December 7: Pearl Harbor Day'
+- |-
+  October & November
+  - Oct. 5: World Teacher's Day
+  - Oct. 9: Indigenous People's Day
+  - Oct. 16: Day of the Defender
 ---
 ## Indigenous Peoples’ Day
 
