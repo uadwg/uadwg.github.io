@@ -25,9 +25,7 @@ As of today, several U.S. cities and states have replaced Columbus Day with Indi
 
 Growing up Mexican-American in Southern California was the norm. Being a Mexican-American in Ukraine, however, is truly a unique experience. Because of a lack of interaction with Hispanic cultures and media (minus the songs in Spanish that play on the radio), Ukrainians usually do not know much about Hispanic cultures. When I walk around I get stares of course, but usually these looks are simply out of curiosity. When I have asked Ukrainians how they feel about Hispanics, they usually do not know how to respond as they usually do not know much about Latin America or Spanish culture. However, I found that as soon as I started sharing my culture, through food recipes, movies, music, and more, Ukrainians were ecstatic seeing the similarities both cultures share. My advice to volunteers who are interested in promoting and highlighting Mexican American culture is to integrate this topic into an English Club and making Mexican food is the quickest way to interest Ukrainians on this topic (just make sure it’s not spicy)! 
 
-## Post-Soviet Punk Rock Dialectics 
-
-### in Serhiy Zhadan's Depeche Mode
+## Post-Soviet Punk Rock Dialectics in Serhiy Zhadan's Depeche Mode
 
 **by Mia Billetdeaux, TEFL 50**
 
