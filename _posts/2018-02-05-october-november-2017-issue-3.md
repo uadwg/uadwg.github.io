@@ -17,7 +17,7 @@ important_dates:
 - 'November 24: Black Friday (U.S.)'
 - 'November 27: Cyber Monday (U.S.)'
 ---
-## Indigenous Peoples’ Day
+### Indigenous Peoples’ Day
 
 **by Jerome Allen, TEFL 50**
 
@@ -35,16 +35,16 @@ In October 2017, from a Columbus Day Parade in Denver, Rita DeFrange, chairwoman
 
 As of today, several U.S. cities and states have replaced Columbus Day with Indigenous Peoples’ Day, including Alaska, Hawaii, Oregon, Denver, Phoenix, and Los Angeles. The conversation on this matter continues today. Some want to shift away from the glorification of Columbus because of how it can impact Native Americans today. This is a focus on building an acute awareness of the struggles and experiences of these people which ultimately, can lead to healing.
 
-## Gabriel Cortez, TEFL 50
+### Gabriel Cortez, TEFL 50
 
-Growing up Mexican-American in Southern California was the norm. Being a Mexican-American in Ukraine, however, is truly a unique experience. Because of a lack of interaction with Hispanic cultures and media (minus the songs in Spanish that play on the radio), Ukrainians usually do not know much about Hispanic cultures. When I walk around I get stares of course, but usually these looks are simply out of curiosity. When I have asked Ukrainians how they feel about Hispanics, they usually do not know how to respond as they usually do not know much about Latin America or Spanish culture. However, I found that as soon as I started sharing my culture, through food recipes, movies, music, and more, Ukrainians were ecstatic seeing the similarities both cultures share. My advice to volunteers who are interested in promoting and highlighting Mexican American culture is to integrate this topic into an English Club and making Mexican food is the quickest way to interest Ukrainians on this topic (just make sure it’s not spicy)! 
+Growing up Mexican-American in Southern California was the norm. Being a Mexican-American in Ukraine, however, is truly a unique experience. Because of a lack of interaction with Hispanic cultures and media (minus the songs in Spanish that play on the radio), Ukrainians usually do not know much about Hispanic cultures. When I walk around I get stares of course, but usually these looks are simply out of curiosity. When I have asked Ukrainians how they feel about Hispanics, they usually do not know how to respond as they usually do not know much about Latin America or Spanish culture. However, I found that as soon as I started sharing my culture, through food recipes, movies, music, and more, Ukrainians were ecstatic seeing the similarities both cultures share. My advice to volunteers who are interested in promoting and highlighting Mexican American culture is to integrate this topic into an English Club and making Mexican food is the quickest way to interest Ukrainians on this topic (just make sure it’s not spicy)!
 
-## Post-Soviet Punk Rock Dialectics in Serhiy Zhadan's Depeche Mode
+### Post-Soviet Punk Rock Dialectics in Serhiy Zhadan's Depeche Mode
 
 **by Mia Billetdeaux, TEFL 50**
 
-The rock star poet may feel like a bygone era in the west, but in a post-Soviet country with fluid ideas on intellectual property struggling to assert its own voice, Serhiy Zhadan is just that. A poet, punk singer and activist who started his career in Kharkiv, Zhadan has become the voice for a generation bent on being heard. 
+The rock star poet may feel like a bygone era in the west, but in a post-Soviet country with fluid ideas on intellectual property struggling to assert its own voice, Serhiy Zhadan is just that. A poet, punk singer and activist who started his career in Kharkiv, Zhadan has become the voice for a generation bent on being heard.
 
-In his debut novel, _Depeche Mode_ , a nihilist pack of friends serpentine through surrealistic 1990s Kharkiv. After a scuffle with the mafia over smuggled vodka sales territory, they set off in search of a missing friend. Through the liquid fog of their failed business venture they peak into an evangelist’s revival, loiter around the luxury flat of a former general’s daughter and eventually find their way to a Pioneers’ summer camp. In its best moments, the novel offers comedic relief in the absurdity and chaos of the period through the eyes of its disillusioned youth.  
+In his debut novel, _Depeche Mode_ , a nihilist pack of friends serpentine through surrealistic 1990s Kharkiv. After a scuffle with the mafia over smuggled vodka sales territory, they set off in search of a missing friend. Through the liquid fog of their failed business venture they peak into an evangelist’s revival, loiter around the luxury flat of a former general’s daughter and eventually find their way to a Pioneers’ summer camp. In its best moments, the novel offers comedic relief in the absurdity and chaos of the period through the eyes of its disillusioned youth.
 
 Available in English on Amazon. Similar to Chuck Palahniuk, Irvine Welsh and Anthony Burgess.
