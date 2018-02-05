@@ -1,3 +1,16 @@
 <footer class="site-footer">
 
 </footer>
+<script type="text/javascript>
+$(function() {
+  
+  $(".menu-link").click(function(e) {
+    e.preventDefault();
+    
+    $(".menu-overlay").toggleClass("open");
+    $(".menu").toggleClass("open");
+
+  });
+	
+});              
+</script>
