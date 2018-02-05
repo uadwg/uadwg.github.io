@@ -5,8 +5,21 @@ layout: post
 important_dates:
 - 'December 1: World AIDS Day'
 - 'December 7: Pearl Harbor Day'
+- 'December 12-20: Hannukah'
+- 'December 21: Winter Solstice'
+- 'December 25: Christmas Day'
+- 'December 26 - January 21: Kwanzaa'
+- 'Month of January: Human Trafficking Prevention Month'
+- 'January 1: New Years Day'
+- 'January 31: Tu Bishvat'
+- 'January 7: Orthodox Christmas'
+- 'January 14: Orthodox New Years'
+- 'January 15: Martin Luther King Jr. Day'
+- 'January 27: Commemoration Victims of the Holocaust'
 ---
 ## Where School Ends, Church Begins
+
+**by Garret Wolfe, TEFL 50**
 
 Most of us in TEFL have witnessed during the first day of school and other points during the year an Orthodox priest blessing the opening of school-buildings on First Bell, as well throughout the year. For some, this is their first induction into how prominently religion is featured in Ukrainian schools, both in class (Christian ethics class) and outside of class (priest being involved in major school events).
 
