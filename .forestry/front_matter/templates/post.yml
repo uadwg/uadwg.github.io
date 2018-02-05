@@ -25,3 +25,5 @@ fields:
     required: true
   default: post
 - type: list
+  name: important_dates
+  label: Important Dates
