@@ -3,11 +3,20 @@ title: October / November 2017 Issue 3
 date: 2017-10-27 18:29:49 +0300
 layout: post
 important_dates:
-- |-
-  October & November
-  - Oct. 5: World Teacher's Day
-  - Oct. 9: Indigenous People's Day
-  - Oct. 16: Day of the Defender
+- 'October 5: World Teachers Day'
+- October 9 Indigenous Peoples' Day
+- 'October 16: Day of the Defender (UA)'
+- 'October 17: International Day for the Eradication of Poverty'
+- 'October 31: Halloween'
+- 'November 2: Dia de los Muertos'
+- 'November 5: Guy Fawkes Night'
+- 'November 11: Veterans Day (U.S.)'
+- 'November 16: International Day for Tolerance'
+- 'November 21: Dignity and Freedom Day (UA)'
+- 'November 23: Thanksgiving (U.S.)'
+- 'November 24: Black Friday (U.S.)'
+- 'November 27: Cyber Monday (U.S.)'
+- ''
 ---
 ## Indigenous Peoples’ Day
 
