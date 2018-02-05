@@ -24,3 +24,6 @@ fields:
   config:
     required: true
   default: post
+- type: textarea
+  name: important_dates
+  label: Important Dates
