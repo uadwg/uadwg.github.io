@@ -11,11 +11,11 @@ important_dates:
 - 'December 26 - January 21: Kwanzaa'
 - 'Month of January: Human Trafficking Prevention Month'
 - 'January 1: New Years Day'
-- 'January 31: Tu Bishvat'
 - 'January 7: Orthodox Christmas'
 - 'January 14: Orthodox New Years'
 - 'January 15: Martin Luther King Jr. Day'
 - 'January 27: Commemoration Victims of the Holocaust'
+- 'January 31: Tu Bishvat'
 ---
 ## Where School Ends, Church Begins
 
