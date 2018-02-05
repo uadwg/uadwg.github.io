@@ -2,6 +2,9 @@
 title: October / November 2017 Issue 3
 date: 2017-10-27 18:29:49 +0300
 layout: post
+important_dates:
+- 'December 1: World AIDS Day'
+- 'December 7: Pearl Harbor Day'
 ---
 ## Indigenous Peoples’ Day
 
