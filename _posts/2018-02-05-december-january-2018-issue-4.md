@@ -43,7 +43,7 @@ It was so from this position that I learned want allyship really looked like. I 
 
 I serve in a site with a small but strong Jewish community. A challenge in adjusting for me, is that the Jewish culture I have encountered here is more conservative and zionist oriented thanwhat I am used to from home. That being said, I’ve been exposed to a diverse group of Jews from young to old from chabad to secular. Despite differing political beliefs and traditions, the Jewish community has been very open and welcoming. Many host country natives have expressed genuine interest leading to some very interesting conversations. While I have never personally experienced any noticeable backlash to my jewishness, a few volunteers have told me stories of host country natives sharing disparaging remarks about Jews. I understand these comments can be surprising, but I would hope that other PCVs would findways speak in the defense of Jews or any marginalized group that finds itself on the receiving end of degrading comments.
 
-### Review: Bombino's Azel
+### Review: Bombino's _Azel_
 
 **by Jerome Allen, Group 50, TEFL**
 
