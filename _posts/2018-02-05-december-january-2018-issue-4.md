@@ -41,4 +41,10 @@ It was so from this position that I learned want allyship really looked like. I 
 
 **by Joseph Heller, Group 51, YD**
 
+I serve in a site with a small but strong Jewish community. A challenge in adjusting for me, is that the Jewish culture I have encountered here is more conservative and zionist oriented thanwhat I am used to from home. That being said, I’ve been exposed to a diverse group of Jews from young to old from chabad to secular. Despite differing political beliefs and traditions, the Jewish community has been very open and welcoming. Many host country natives have expressed genuine interest leading to some very interesting conversations. While I have never personally experienced any noticeable backlash to my jewishness, a few volunteers have told me stories of host country natives sharing disparaging remarks about Jews. I understand these comments can be surprising, but I would hope that other PCVs would findways speak in the defense of Jews or any marginalized group that finds itself on the receiving end of degrading comments.
+
+### Review: Bombino's Azel
+
+**by Jerome Allen, Group 50, TEFL**
+
 Child of the 1990 Tuareg Rebellion, Niger’s Omara “Bombino” Moctar is a world-renowned guitarist who addresses his country’s geopolitical concerns through intricate rock and blues composition in the Tuareg language of Tamasheq. In his work, specifically his 2016 album Azel, he commonly ties religious tradition to contemporary musical elements. Within Niger, his music has been seen as a mark of peace, a triumphant irony following the 2007 Tuareg Rebellion. The music of Tuareg was banned from Niger, yet Bombino continues to use his international platform to speak frankly about the Taureg culture and tradition.
