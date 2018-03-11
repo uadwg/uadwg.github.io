@@ -16,6 +16,9 @@ fields:
   config:
     required: true
   default: Invalid date
+- type: file
+  name: banner
+  label: Banner
 - type: text
   name: layout
   label: Layout
@@ -26,6 +29,3 @@ fields:
 - type: list
   name: important_dates
   label: Important Dates
-- type: file
-  name: banner
-  label: Banner
