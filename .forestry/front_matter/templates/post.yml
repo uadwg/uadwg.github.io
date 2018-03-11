@@ -26,3 +26,6 @@ fields:
 - type: list
   name: important_dates
   label: Important Dates
+- type: file
+  name: banner
+  label: Banner
