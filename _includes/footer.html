@@ -3,9 +3,21 @@
 </footer>
 <script type="text/javascript">
 (function($) {
-  
-  var banner_images = [{'image': 'banner_1.jpg', 'ypos': '24%'}];
-  $(".page-header").css({'background-image': 'url("/uploads/' + banner_images[0].image + '")', 'background-position-y': banner_images[0]['ypos']});
+  var rand = Math.floor(Math.random() * 10);
+  var banner_images = [
+	  {'image': 'banner_1.jpg', 'ypos': '24%'},
+	  {'image': 'banner_2.jpg', 'ypos': '46%'},
+	  {'image': 'banner_3.jpg', 'ypos': '55%'},
+	  {'image': 'banner_4.jpg', 'ypos': '55%'},
+	  {'image': 'banner_5.jpg', 'ypos': '14%'},
+	  {'image': 'banner_6.jpg', 'ypos': '28%'},
+	  {'image': 'banner_7.jpg', 'ypos': '48%'},
+	  {'image': 'banner_8.jpg', 'ypos': '36%'},
+	  {'image': 'banner_9.jpg', 'ypos': '66%'},
+	  {'image': 'banner_10.jpg', 'ypos': '56%'},
+	  {'image': 'banner_11.jpg', 'ypos': '71%'}
+  ];
+  $(".page-header").css({'background-image': 'url("/uploads/' + banner_images[rand].image + '")', 'background-position-y': banner_images[rand]['ypos']});
 
   $(".menu-link").click(function(e) {
     e.preventDefault();
