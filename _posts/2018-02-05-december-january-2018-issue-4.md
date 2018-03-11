@@ -16,7 +16,7 @@ important_dates:
 - 'January 15: Martin Luther King Jr. Day'
 - 'January 27: Commemoration Victims of the Holocaust'
 - 'January 31: Tu Bishvat'
-banner: "/uploads/2018/03/11/banner_9.jpg"
+banner: "/uploads/2018/03/11/banner_3.jpg"
 banner_vertical_position: ''
 ---
 ### Where School Ends, Church Begins
