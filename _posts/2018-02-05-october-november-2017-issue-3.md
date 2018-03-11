@@ -16,7 +16,7 @@ important_dates:
 - 'November 23: Thanksgiving (U.S.)'
 - 'November 24: Black Friday (U.S.)'
 - 'November 27: Cyber Monday (U.S.)'
-banner: "/uploads/2018/03/11/banner_8.jpg"
+banner: "/uploads/banner_8.jpg"
 banner_vertical_position: ''
 ---
 ### Indigenous Peoples’ Day
