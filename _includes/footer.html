@@ -5,7 +5,7 @@
 (function($) {
   
   var banner_images = [{'image': 'banner_1.jpg', 'y-pos': '24%'}];
-  $(".page-header").css({'background-image': '/uploads/' + banner_images[0].image, 'background-position-y': banner_images[0].y-pos});
+  $(".page-header").css({'background-image': 'url("/uploads/' + banner_images[0].image + '")', 'background-position-y': banner_images[0].y-pos});
 
   $(".menu-link").click(function(e) {
     e.preventDefault();
